@@ -7,7 +7,9 @@ Followers: 2,133
 ---
 
 ## Post 1 - 1 day ago (381 impressions)
-**Activity ID:** urn:li:activity:7423038672368885760
+**Activity ID:** 7423038672368885760
+
+**Images:** [Image 1](images/7423038672368885760-1.jpg)
 
 Presented Humming Agent AI to 30+ founders and investors on Wednesday.
 
@@ -46,7 +48,9 @@ Ryan McCormick | Director
 ---
 
 ## Post 2 - 1 week ago (1,840 impressions)
-**Activity ID:** urn:li:activity:7420110507845623808
+**Activity ID:** 7420110507845623808
+
+**Images:** None (text only)
 
 Something I didn't expect after leaving big companies:
 
@@ -69,7 +73,9 @@ Then you realize it's the fastest way to build what people actually use.
 ---
 
 ## Post 3 - 1 week ago (663 impressions)
-**Activity ID:** urn:li:activity:7419393413797588992
+**Activity ID:** 7419393413797588992
+
+**Images:** None (text only)
 
 Build vs buy is the wrong question.
 
@@ -98,7 +104,9 @@ Build the ugly version first.
 ---
 
 ## Post 4 - 2 weeks ago (Repost from Humming Agent AI)
-**Activity ID:** urn:li:activity:7417231006140678145
+**Activity ID:** 7417231006140678145
+
+**Images:** [Image 1](images/7417231006140678145-1.jpg) | [Image 2](images/7417231006140678145-2.jpg) | [Image 3](images/7417231006140678145-3.jpg) | [Image 4](images/7417231006140678145-4.jpg)
 
 We wrapped the season at Broncos vs. Chargers with Pax8, connecting with partners and operators who are actively exploring AI that actually works.
 
@@ -122,7 +130,9 @@ If you're exploring AI this year, what's the first workflow you'd automate?
 ---
 
 ## Post 5 - 2 weeks ago (451 impressions)
-**Activity ID:** urn:li:activity:7416517863521468416
+**Activity ID:** 7416517863521468416
+
+**Images:** None (text only)
 
 CES reinforced something I've seen all year.
 
@@ -149,7 +159,9 @@ Curious what others noticed this week.
 ---
 
 ## Post 6 - 1 month ago (403 impressions)
-**Activity ID:** urn:li:activity:7401270221787017216
+**Activity ID:** 7401270221787017216
+
+**Images:** [Image 1](images/7401270221787017216-1.jpg)
 
 Automation follows instructions. Agentic AI figures out what to do next. That difference sounds subtle: it isn't.
 
@@ -172,7 +184,9 @@ How many leads slipped through your cracks this month?
 ---
 
 ## Post 7 - 2 months ago (Repost - Thanksgiving)
-**Activity ID:** urn:li:activity:7399826057673228288
+**Activity ID:** 7399826057673228288
+
+**Images:** [Image 1](images/7399826057673228288-1.jpg)
 
 Gratitude isn't just a holiday tradition for us — it's something we practice every day as we help our clients, partners, and team create real, lasting impact with automation.
 
@@ -185,7 +199,9 @@ Thank you for being part of our mission. Wishing you a restorative holiday and m
 ---
 
 ## Post 8 - 2 months ago (638 impressions)
-**Activity ID:** urn:li:activity:7399085494996889600
+**Activity ID:** 7399085494996889600
+
+**Images:** None (text only)
 
 Every morning used to start with detective work: five dashboards, endless tabs, and way too many "what broke overnight?" surprises.
 
@@ -207,7 +223,9 @@ If you're juggling SEO across multiple sites and want early access, DM me (we're
 ---
 
 ## Post 9 - 2 months ago (424 impressions)
-**Activity ID:** urn:li:activity:7396925767978315776
+**Activity ID:** 7396925767978315776
+
+**Images:** [Image 1](images/7396925767978315776-1.jpg)
 
 Sensitive company info slips into public AI chat tools every day: often without anyone noticing. That includes strategy docs, client notes, even confidential IP. Suddenly, data that should stay inside is out of your control and stored who-knows-where.
 
@@ -230,7 +248,9 @@ If you care about compliance, trust, or innovation, privacy matters. Own your da
 ---
 
 ## Post 10 - 2 months ago (22,701 impressions) ⭐ TOP PERFORMER
-**Activity ID:** urn:li:activity:7396590047472492544
+**Activity ID:** 7396590047472492544
+
+**Images:** [Image 1](images/7396590047472492544-1.jpg)
 
 Everyone's chasing the next big AI model, but here's the reality: the AI release cycle just went into overdrive.
 
@@ -256,7 +276,9 @@ The hype's behind us. These tools actually deliver.
 ---
 
 ## Post 11 - 2 months ago (462 impressions)
-**Activity ID:** urn:li:activity:7396201158140227584
+**Activity ID:** 7396201158140227584
+
+**Images:** [Image 1](images/7396201158140227584-1.jpg)
 
 Thinking about AI but feeling overwhelmed by all the options? You're not alone. For most SMBs, the smartest move isn't going all-in overnight — it's starting small with a pilot, learning fast, and scaling what actually works.
 
@@ -269,7 +291,9 @@ If you're looking to try AI without the headaches, let's talk about piloting bef
 ---
 
 ## Post 12 - 2 months ago (436 impressions)
-**Activity ID:** urn:li:activity:7394394109945278465
+**Activity ID:** 7394394109945278465
+
+**Images:** [Image 1](images/7394394109945278465-1.jpg)
 
 Tired of juggling disconnected systems — sales in one tool, billing in another, support everywhere? 😵‍💫
 
@@ -287,7 +311,9 @@ Ready to outpace the competition and free your team from manual headaches? Dive 
 ---
 
 ## Post 13 - 2 months ago (501 impressions)
-**Activity ID:** urn:li:activity:7393671426722934784
+**Activity ID:** 7393671426722934784
+
+**Images:** [Image 1](images/7393671426722934784-1.jpg)
 
 AI is finally moving past the hype, and starting to deliver real business impact.
 
@@ -307,7 +333,9 @@ Curious how modern AI can make a difference for your workflow? Let's chat about 
 ---
 
 ## Post 14 - 2 months ago (723 impressions)
-**Activity ID:** urn:li:activity:7391855542119362561
+**Activity ID:** 7391855542119362561
+
+**Images:** [Image 1](images/7391855542119362561-1.jpg) | [Image 2](images/7391855542119362561-2.jpg)
 
 Great chatting with Devon Tilly on The Art of Construction podcast with Brian Watson — always great catching up with old friends and talking about how tech and automation are changing the game. Excited to share it when it launches!
 
@@ -317,7 +345,9 @@ Humming Agent AI
 ---
 
 ## Post 15 - 2 months ago (831 impressions)
-**Activity ID:** urn:li:activity:7391486304695410689
+**Activity ID:** 7391486304695410689
+
+**Images:** None (text only)
 
 Everyone's chasing the next big AI tool, but the real advantage is in how well yours work together.
 
@@ -336,7 +366,9 @@ Consistency beats complexity when it comes to AI adoption.
 ---
 
 ## Post 16 - 3 months ago (2,629 impressions)
-**Activity ID:** urn:li:activity:7389300028806246400
+**Activity ID:** 7389300028806246400
+
+**Images:** [Image 1](images/7389300028806246400-1.jpg)
 
 Tired of busy work?
 That's the problem we built Humming Agent AI to solve.
@@ -358,7 +390,9 @@ Read the full post:
 ---
 
 ## Post 17 - 3 months ago (1,464 impressions)
-**Activity ID:** urn:li:activity:7384259092510380032
+**Activity ID:** 7384259092510380032
+
+**Images:** [Image 1](images/7384259092510380032-1.jpg)
 
 The Quiet Revolution: AI Agents That Just… Work.
 
@@ -378,7 +412,9 @@ If you're curious how businesses are quietly using AI agents that actually work,
 ---
 
 ## Post 18 - 3 months ago (1,591 impressions)
-**Activity ID:** urn:li:activity:7379153214660808704
+**Activity ID:** 7379153214660808704
+
+**Images:** [Image 1](images/7379153214660808704-1.jpg)
 
 Started testing Claude 4.5 Sonnet + Claude Code v2.0 this week.
 
@@ -395,7 +431,9 @@ At Humming Agent, we test the latest AI tools so we can deliver more dependable 
 ---
 
 ## Post 19 - 4 months ago (1,797 impressions)
-**Activity ID:** urn:li:activity:7376730330139037696
+**Activity ID:** 7376730330139037696
+
+**Images:** [Image 1](images/7376730330139037696-1.jpg)
 
 We're growing the team! Hiring an AI-Driven Software Engineer (contract → full-time). If someone comes to mind, I'd love an intro.
 
@@ -418,7 +456,9 @@ If you're a builder who thrives in the terminal, leverages tools like Claude Cod
 ---
 
 ## Post 20 - 4 months ago (Repost - Colorado Startup Week)
-**Activity ID:** urn:li:activity:7373836653448085504
+**Activity ID:** 7373836653448085504
+
+**Images:** [Image 1](images/7373836653448085504-1.jpg)
 
 We had the chance to present at Colorado Startup Week on how AI is transforming the way businesses scale.
 
@@ -431,7 +471,9 @@ From voice & chat AI, to private GPTs, to connecting workflows through APIs, we'
 ---
 
 ## Post 21 - 5 months ago (Repost - TMC Award)
-**Activity ID:** urn:li:activity:7363267142852497408
+**Activity ID:** 7363267142852497408
+
+**Images:** [Image 1](images/7363267142852497408-1.jpg)
 
 🌟 Huge Win: Humming Agent AI Named TMC's 2025 AI Agent Product of the Year!
 
@@ -456,7 +498,9 @@ https://lnkd.in/gBqNr_QM
 ---
 
 ## Post 22 - 1 year ago (1,989 impressions)
-**Activity ID:** urn:li:activity:7229522797524312065
+**Activity ID:** 7229522797524312065
+
+**Images:** [Image 1](images/7229522797524312065-1.jpg)
 
 🚀 Check out my latest article: How AI is Revolutionizing Cloud Computing 🤖☁️
 
@@ -469,7 +513,9 @@ Explore how AWS, GCP, and Azure are leveraging AI to transform businesses of all
 ---
 
 ## Post 23 - 1 year ago (1,611 impressions)
-**Activity ID:** urn:li:activity:7207032775646916612
+**Activity ID:** 7207032775646916612
+
+**Images:** [Image 1](images/7207032775646916612-1.jpg)
 
 After attending Google I/O, Microsoft Build, and now Apple WWDC, it's been a busy summer. I'm excited to share some highlights:
 
@@ -494,7 +540,9 @@ Read more here: https://lnkd.in/dsHTT4yK
 ---
 
 ## Post 24 - 1 year ago (3,606 impressions)
-**Activity ID:** urn:li:activity:7199814257452933120
+**Activity ID:** 7199814257452933120
+
+**Images:** [Image 1](images/7199814257452933120-1.jpg)
 
 🚀 Highlights from Microsoft Build 2024!
 
@@ -519,7 +567,9 @@ Dive deeper into the details in my full recap: https://lnkd.in/ge_RZZEE
 ---
 
 ## Post 25 - 1 year ago (1,347 impressions)
-**Activity ID:** urn:li:activity:7197309167978569728
+**Activity ID:** 7197309167978569728
+
+**Images:** [Image 1](images/7197309167978569728-1.jpg)
 
 Here's my quick recap of the AI whirlwind that was Google I/O 2024: 🌪️
 
@@ -537,7 +587,9 @@ Check out my full recap here: https://lnkd.in/gb_RSVqF
 ---
 
 ## Post 26 - 1 year ago (1,943 impressions)
-**Activity ID:** urn:li:activity:7196310362776842240
+**Activity ID:** 7196310362776842240
+
+**Images:** [Image 1](images/7196310362776842240-1.jpg)
 
 Selfie with Sundar Pichai at Google I/O 2024! Amazing event. 
 
@@ -546,7 +598,9 @@ Selfie with Sundar Pichai at Google I/O 2024! Amazing event.
 ---
 
 ## Post 27 - 1 year ago (725 impressions)
-**Activity ID:** urn:li:activity:7196198826829885440
+**Activity ID:** 7196198826829885440
+
+**Images:** [Image 1](images/7196198826829885440-1.jpg)
 
 Excited to be attending Google I/O 2024! Looking forward to the latest in AI, machine learning, and tech innovation.
 
@@ -560,6 +614,7 @@ Excited to be attending Google I/O 2024! Looking forward to the latest in AI, ma
 - **Date Range:** ~1 year (May 2024 - January 2026)
 - **Top Performer:** Post 10 with 22,701 impressions (AI model comparison)
 - **Average Recent Impressions:** ~500-2,000
+- **Total Images:** 26
 
 ## Common Themes:
 - AI Automation & Agentic AI
