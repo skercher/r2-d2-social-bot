@@ -1,8 +1,66 @@
 # LinkedIn Posts - Shawn Kercher
-*Collected: January 31, 2026*
+*Updated: February 9, 2026*
 
 Profile: https://www.linkedin.com/in/shawnkercher/
 Followers: 2,133
+
+---
+
+## Post 0a - Feb 9, 2026 (215 impressions in 2hrs, tracking) — Personal Profile
+**Type:** Text only
+
+Over $1,500 a month on SaaS.
+HubSpot. Fireflies. Notion. Buffer. PandaDocs.
+A talent portal.
+Six-person team.
+
+The tools weren't bad.
+They were built for everyone.
+
+So we built our own:
+→ CRM
+→ Call Transcription
+→ Project Management
+→ Social Dashboard
+→ Candidate Tracker
+→ SEO Dashboard
+
+Each one built for how we actually work.
+Dashboards match our exact workflows.
+AI employees skip the UI and hit the API.
+
+Same data. Two paths.
+Humans use dashboards. AI uses APIs.
+One costs a seat license. The other costs an API call.
+
+Monthly compute: $200.
+
+The expensive part of SaaS was never the software.
+It was paying for someone else's idea of how you should work.
+
+---
+
+## Post 0b - Feb 9, 2026 — Company Page (HummingAgent)
+**Type:** Photo from Woven Innovation Summit
+
+In Atlanta this week for the Woven Innovation Summit.
+
+Healthcare is one of the last industries where AI can't just be impressive. It has to be compliant. Private. Trustworthy.
+
+The conversations here aren't about what AI can do.
+They're about what AI is allowed to do.
+
+That's the harder problem. And the bigger opportunity.
+
+Most AI tools start by asking you to send your data somewhere else. Healthcare can't do that. Patient workflows. Clinical notes. Billing data. None of it can leave your environment.
+
+That constraint changes everything.
+
+We've been building toward that reality. Private GPT. Secure infrastructure. AI employees that handle real workflows without your data ever leaving your walls.
+
+Same capabilities. Zero exposure.
+
+The companies that win in healthcare AI won't be the ones with the flashiest models. They'll be the ones that earned trust first.
 
 ---
 
