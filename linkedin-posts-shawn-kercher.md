@@ -1,8 +1,62 @@
 # LinkedIn Posts - Shawn Kercher
-*Updated: February 9, 2026*
+*Updated: February 16, 2026*
 
 Profile: https://www.linkedin.com/in/shawnkercher/
 Followers: 2,133
+
+---
+
+## Post - Feb 16, 2026 - OpenClaw / Lex Fridman Podcast (MCP Hot Take)
+**Type:** Text only + link in comments
+**Posted:** Feb 16, 2026
+**Post ID:** urn:li:share:7429168959901569024
+**Status:** ✅ POSTED
+
+"Screw MCPs. Every MCP would be better as a CLI."
+
+Peter Steinberger just said this on Lex Fridman's podcast.
+
+He built OpenClaw — the fastest-growing project in GitHub history.
+
+(MCPs = Model Context Protocol — the new way to give AI agents tools)
+
+His take: MCPs add complexity. CLIs already exist and work everywhere. Why reinvent the wheel?
+
+Agree or disagree?
+
+The guy who built an AI agent used by millions might be onto something.
+
+🎧 Link in comments
+
+#AI #OpenClaw #LexFridman
+
+**Comment link:** https://www.youtube.com/watch?v=YFjfBk8HI5o
+
+---
+
+## DRAFT - Enterprise Lock-In (HummingAgent)
+**Type:** Text only
+**Suggested day:** Tuesday (HummingAgent/AI day)
+
+ChatGPT Enterprise. Claude Enterprise. Microsoft Copilot. All great products. All the same trap.
+
+You're locked into one vendor's models. Their roadmap. Their pricing. Their timeline.
+
+When a better model drops? You wait for them to add it. Or you don't get it at all.
+
+Here's what we do differently at HummingAgent:
+
+→ Access to thousands of models
+→ New release hits the market? You have it
+→ Grok, Claude, GPT, Gemini, Llama, Mistral — all of them
+→ Switch models per task, per workflow, per cost
+→ Your data stays private. Your options stay open.
+
+The best model today won't be the best model in 6 months.
+
+Why bet your infrastructure on a single vendor's future?
+
+#PrivateGPT #AI #EnterpriseAI #HummingAgentAI
 
 ---
 
